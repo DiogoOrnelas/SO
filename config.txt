@@ -1,0 +1,6 @@
+
+tempo_jogo : 0
+tempo_medio : 10
+inicio_simulacao : 0
+tempo_simulacao : 100
+num_jogadores : 9
